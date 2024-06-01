@@ -1,0 +1,10 @@
+How to get the evaluation directory. 
+The overwrite is ok. 
+
+scp -r davrans@ssh-iam.intel-research.net:/homes/davrans/1st_try/eval /Users/davrans/Desktop/plot 
+scp -r davrans@ssh-iam.intel-research.net:/homes/davrans/1st_try/graph /Users/davrans/Desktop/plot 
+
+
+scp -r davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans/cs499/test/result /Users/davrans/Desktop/plot/extra 
+
+scp davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans/cs499/test/batch_dqn.py /Users/davrans/Desktop/plot 
