@@ -7,4 +7,17 @@ scp -r davrans@ssh-iam.intel-research.net:/homes/davrans/1st_try/graph /Users/da
 
 scp -r davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans/cs499/test/result /Users/davrans/Desktop/plot/extra 
 
-scp davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans/cs499/test/batch_dqn.py /Users/davrans/Desktop/plot 
+scp davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans/cs4993/yahtzeeAgent/test/frustration.txt /Users/davrans/Desktop/plot/extra
+
+
+scp -r /Users/davrans/Desktop/hw7 davrans@flip.engr.oregonstate.edu:/nfs/stak/users/davrans
+
+
+
+How to get policy? 
+
+1. After the complete, change the title. 
+
+scp -r davrans@ssh-iam.intel-research.net:/homes/davrans/1st_try/trained_models/LocomotionClockEnv/3/1/50/05-31-16-30 "/Users/davrans/Desktop/Drail. /roadrunner_refactor/trained_models/LocomotionClockEnv/vlab/"
+
+
